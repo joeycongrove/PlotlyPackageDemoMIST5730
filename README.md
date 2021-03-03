@@ -11,7 +11,7 @@ Professor Hani Safadi
 
 # Support Files
 - `demo.ipynb` - Python notebook containing the code for this demonstration.
-- `test.csv` - Sample data used for demonstrations.
+- `energy_bill.csv` - Sample data used for demonstrations. This file can be in this repository, or on [Kaggle](https://www.kaggle.com/gireeshs/household-monthly-electricity-bill) 
 
 # Guide
 
