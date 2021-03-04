@@ -7,7 +7,7 @@ MIST 5730 - Advanced Data Management and Analytics
 Professor Hani Safadi
 
 # Presentation
-- A link to the presentation of this demo can be found [here](youtube.com)
+- A link to the presentation of this demo can be found [here](https://youtu.be/218gBgpH_yk)
 
 # Support Files
 - `demo.ipynb` - Python notebook containing the code for this demonstration.
